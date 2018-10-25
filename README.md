@@ -14,6 +14,7 @@
 
 - React Hooks Announcement (waiting for video link)
 - ReactConf 2018: 90% Cleaner React (waiting for video link)
+- [Kent C. Dodds examples on Egghead](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
 
 ## Packages
 
