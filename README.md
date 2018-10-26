@@ -15,6 +15,9 @@
 - React Hooks Announcement (waiting for video link)
 - ReactConf 2018: 90% Cleaner React (waiting for video link)
 
+## Libraries
+- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
+
 ## Packages
 
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size
