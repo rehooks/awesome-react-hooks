@@ -28,3 +28,5 @@
 - [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [use-immer](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [react-hanger](https://github.com/kitze/react-hanger) A small collection of utility hooks
+- [redux-react-hook](https://github.com/ianobermiller/redux-react-hook): React hook for accessing mapped state from a Redux store.
+- [rehooks-visibility-sensor](https://github.com/imbhargav5/rehooks-visibility-sensor): It checks whether an element has scrolled into view or not.
