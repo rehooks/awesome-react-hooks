@@ -5,6 +5,7 @@
 ## Documentation
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
+- [React's built-in hooks](https://reactjs.org/docs/hooks-reference.html)
 
 ## Tutorials
 
