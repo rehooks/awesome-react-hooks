@@ -15,9 +15,6 @@
 - React Hooks Announcement (waiting for video link)
 - ReactConf 2018: 90% Cleaner React (waiting for video link)
 
-## Libraries
-- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
-
 ## Packages
 
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size
@@ -28,3 +25,4 @@
 - [`@rehooks/network-status`](https://github.com/rehooks/network-status) React hook for getting network-status
 - [`@rehooks/online-status`](https://github.com/rehooks/online-status) React Hook for Online status
 - [`@rehooks/local-storage`](https://github.com/rehooks/local-storage) React hook which syncs `localStorage[key]` with the comp.
+- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
