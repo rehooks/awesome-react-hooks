@@ -12,7 +12,7 @@
 
 ## Tutorials
 
-- ...
+- [Egghead.io - Kent C. Dodds - React Hooks & Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
 
 ## Videos
 
