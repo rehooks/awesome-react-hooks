@@ -6,6 +6,10 @@
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
 
+## Discussions
+
+- [React Hooks RFC](https://github.com/reactjs/rfcs/pull/68)
+
 ## Tutorials
 
 - ...
