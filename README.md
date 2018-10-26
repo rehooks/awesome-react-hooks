@@ -26,3 +26,4 @@
 - [`@rehooks/online-status`](https://github.com/rehooks/online-status) React Hook for Online status
 - [`@rehooks/local-storage`](https://github.com/rehooks/local-storage) React hook which syncs `localStorage[key]` with the comp.
 - [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
+- [use-immer](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
