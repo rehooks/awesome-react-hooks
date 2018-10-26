@@ -12,8 +12,7 @@
 
 ## Videos
 
-- React Hooks Announcement (waiting for video link)
-- ReactConf 2018: 90% Cleaner React (waiting for video link)
+- [ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 
 ## Packages
 
