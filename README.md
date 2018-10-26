@@ -28,3 +28,4 @@
 - [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [use-immer](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [react-hanger](https://github.com/kitze/react-hanger) A small collection of utility hooks
+- [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
