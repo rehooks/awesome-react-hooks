@@ -6,14 +6,21 @@
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
 
+## Discussions
+
+- [React Hooks RFC](https://github.com/reactjs/rfcs/pull/68)
+
 ## Tutorials
 
 - ...
 
 ## Videos
 
-- React Hooks Announcement (waiting for video link)
-- ReactConf 2018: 90% Cleaner React (waiting for video link)
+- [ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+
+## Tools
+
+- [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 
 ## Packages
 
@@ -25,8 +32,12 @@
 - [`@rehooks/network-status`](https://github.com/rehooks/network-status) React hook for getting network-status
 - [`@rehooks/online-status`](https://github.com/rehooks/online-status) React Hook for Online status
 - [`@rehooks/local-storage`](https://github.com/rehooks/local-storage) React hook which syncs `localStorage[key]` with the comp.
-- [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
-- [use-immer](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
-- [react-hanger](https://github.com/kitze/react-hanger) A small collection of utility hooks
-- [redux-react-hook](https://github.com/ianobermiller/redux-react-hook): React hook for accessing mapped state from a Redux store.
-- [rehooks-visibility-sensor](https://github.com/imbhargav5/rehooks-visibility-sensor): It checks whether an element has scrolled into view or not.
+- [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
+- [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
+- [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
+- [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks
+- [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
+- [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
+- [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component
+- [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook): React hook for accessing mapped state from a Redux store.
+- [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor): It checks whether an element has scrolled into view or not.
