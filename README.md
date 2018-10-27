@@ -35,6 +35,7 @@
 - [`@rehooks/local-storage`](https://github.com/rehooks/local-storage) React hook which syncs `localStorage[key]` with the comp.
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
+- [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
