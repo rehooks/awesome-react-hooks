@@ -25,6 +25,7 @@
 
 ## Packages
 
+- [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size
 - [`@rehooks/input-value`](https://github.com/rehooks/input-value) React hook for creating input values
 - [`@rehooks/document-visibility`](https://github.com/rehooks/document-visibility) React hook for subscribing to document visibility
