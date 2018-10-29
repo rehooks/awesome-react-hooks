@@ -12,7 +12,7 @@
 
 ## Tutorials
 
-- ...
+- [What are Hooks on React...?](https://itnext.io/what-are-hooks-on-react-and-how-you-can-benefit-from-them-5cec8ab310320) by Jonatan Salas, brief overview with a counter example.
 
 ## Videos
 
