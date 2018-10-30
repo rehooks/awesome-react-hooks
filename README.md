@@ -54,3 +54,4 @@
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks)
 - [`react-window-communication-hook`] (https://github.com/AvraamMavridis/react-window-communication-hook) Hook to communicate among browser contextes (windows, tabs, iframes)
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks
+- [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
