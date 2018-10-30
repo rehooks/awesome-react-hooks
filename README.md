@@ -25,7 +25,6 @@
 
 ## Packages
 
-- [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size
 - [`@rehooks/input-value`](https://github.com/rehooks/input-value) React hook for creating input values
 - [`@rehooks/document-visibility`](https://github.com/rehooks/document-visibility) React hook for subscribing to document visibility
@@ -41,3 +40,4 @@
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component
+- [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks
