@@ -36,6 +36,7 @@
 - [`@rehooks/online-status`](https://github.com/rehooks/online-status) React Hook for Online status
 - [`@rehooks/local-storage`](https://github.com/rehooks/local-storage) React hook which syncs `localStorage[key]` with the comp.
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
+- [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
@@ -44,5 +45,7 @@
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React
+- [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook): React hook for accessing mapped state from a Redux store.
+- [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor): It checks whether an element has scrolled into view or not.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
