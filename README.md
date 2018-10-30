@@ -16,11 +16,14 @@
 
 ## Videos
 
-- [ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [🎬 ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [🎬 Building a Todo List with React Hooks useState | Ben Awad](https://www.youtube.com/watch?v=cAZ-fOd1RpA)
+- [🎬 React Hooks: A Complete Introduction | Harry Wolff](https://www.youtube.com/watch?v=jd8R0a2Ur8Q)
 
 ## Tools
 
 - [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 
 ## Packages
 
@@ -35,9 +38,12 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
+- [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook): React hook for accessing mapped state from a Redux store.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor): It checks whether an element has scrolled into view or not.
+- [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components
+- [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
