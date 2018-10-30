@@ -52,6 +52,6 @@
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks)
-- [`react-window-communication-hook`] (https://github.com/AvraamMavridis/react-window-communication-hook) Hook to communicate among browser contextes (windows, tabs, iframes)
+- [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) Hook to communicate among browser contextes (windows, tabs, iframes)
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
