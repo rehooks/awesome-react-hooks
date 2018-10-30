@@ -16,10 +16,11 @@
 
 ## Videos
 
-- [🎬 ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-- [🎬 Building a Todo List with React Hooks useState | Ben Awad](https://www.youtube.com/watch?v=cAZ-fOd1RpA)
-- [🎬 React Hooks: A Complete Introduction | Harry Wolff](https://www.youtube.com/watch?v=jd8R0a2Ur8Q)
-- [🎬 React Hooks Youtube Playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
+- [🎬 ReactConf 2018: React Today and Tomorrow by Sophie Alpert and Dan Abramov](https://youtu.be/V-QO-KO90iQ) Official announcement and first demo.
+- [🎬 ReactConf 2018: 90% Cleaner React by Ryan Florence](https://youtu.be/wXLf18DsV-I)
+- [🎬 React Hooks: A Complete Introduction by Harry Wolff](https://youtu.be/jd8R0a2Ur8Q)
+- [🎬 React Hooks playlist by Ben Awad](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ)
+- [🎬 React Hooks playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
 
 ## Tools
 
