@@ -38,7 +38,6 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
-- [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
@@ -46,3 +45,4 @@
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
+- [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current Redux app).
