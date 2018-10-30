@@ -16,7 +16,9 @@
 
 ## Videos
 
-- [ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [🎬 ReactConf 2018: React Hooks Announcement & Introduction](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [🎬 Building a Todo List with React Hooks useState | Ben Awad](https://www.youtube.com/watch?v=cAZ-fOd1RpA)
+- [🎬 React Hooks: A Complete Introduction | Harry Wolff](https://www.youtube.com/watch?v=jd8R0a2Ur8Q)
 
 ## Tools
 
