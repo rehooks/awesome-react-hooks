@@ -45,6 +45,7 @@
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component
+- [`react-i18next/hooks`](https://react.i18next.com/experimental/using-with-hooks)
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook): React hook for accessing mapped state from a Redux store.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor): It checks whether an element has scrolled into view or not.
