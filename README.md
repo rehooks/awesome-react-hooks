@@ -28,6 +28,7 @@
 - [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+- [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
 
 ## Packages
 
