@@ -41,6 +41,7 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
+- [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplyfying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
