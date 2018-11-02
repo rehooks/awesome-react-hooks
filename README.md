@@ -36,6 +36,7 @@
 
 ## Packages
 
+- [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
 - [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
 - [`@rehooks/document-title`](https://github.com/rehooks/document-title) React hook for updating the document-title.
 - [`@rehooks/document-visibility`](https://github.com/rehooks/document-visibility) React hook for subscribing to document visibility.
