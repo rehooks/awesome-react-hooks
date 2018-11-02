@@ -27,6 +27,10 @@
 
 - [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
+
+# Catalogs
+
+- [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 
 ## Packages
