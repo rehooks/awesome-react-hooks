@@ -66,6 +66,7 @@
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
+- [`resynced`](https://github.com/pedronasser/resynced) Multiple state management using React Hooks API.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
