@@ -66,6 +66,7 @@
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
+- [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
