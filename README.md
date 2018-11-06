@@ -66,6 +66,7 @@
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) React hook to communicate among browser contexts (tabs, windows, iframes).
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
+- [`reaktion`](https://github.com/mfrachet/reaktion) useState like hook for global state management.
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
 - [`resynced`](https://github.com/pedronasser/resynced) Multiple state management using React Hooks API.
@@ -75,4 +76,3 @@
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
-- [`reaktion`](https://github.com/mfrachet/reaktion) useState like hook for global state management
