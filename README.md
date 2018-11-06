@@ -62,6 +62,7 @@
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) Hooks api for react-powerplug components.
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
+- [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) React hook to communicate among browser contexts (tabs, windows, iframes).
