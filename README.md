@@ -31,10 +31,10 @@
 
 ## Catalogs
 
+- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
 - [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
-- [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
 
 ## Packages
 
@@ -48,7 +48,7 @@
 - [`@rehooks/online-status`](https://github.com/rehooks/online-status) React Hook for Online status.
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
-- [`easy-zpeasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
+- [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
