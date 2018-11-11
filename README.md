@@ -67,6 +67,7 @@
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
+- [`react-wait`](https://github.com/f/react-wait) Complex Loader Management Hook for React Applications.
 - [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) React hook to communicate among browser contexts (tabs, windows, iframes).
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
 - [`reaktion`](https://github.com/mfrachet/reaktion) useState like hook for global state management.
