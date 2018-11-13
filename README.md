@@ -54,6 +54,7 @@
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
+- [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks.
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
