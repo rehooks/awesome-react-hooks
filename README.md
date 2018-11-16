@@ -24,6 +24,10 @@
 - [🎬 React Hooks playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
 - [🎬 React Hooks playlist by Michael Chan](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g)
 
+## Podcasts
+
+- [React Hooks - Syntax](https://syntax.fm/show/092/react-hooks)
+
 ## Tools
 
 - [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
