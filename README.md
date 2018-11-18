@@ -83,6 +83,7 @@
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
+- [`use-redux`](https://github.com/flepretre/use-redux) A hook to bind [redux](https://redux.js.org).
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
