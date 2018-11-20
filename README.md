@@ -81,6 +81,7 @@
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
 - [`resynced`](https://github.com/pedronasser/resynced) Multiple state management using React Hooks API.
+- [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
@@ -92,4 +93,3 @@
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
-- [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
