@@ -82,6 +82,7 @@
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
 - [`reaktion`](https://github.com/mfrachet/reaktion) useState like hook for global state management.
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
+- [`react-usemiddleware`](https://github.com/venil7/react-usemiddleware) React hook for using existing Redux middlewares (like thunk or saga) with `useReducer`.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
 - [`resynced`](https://github.com/pedronasser/resynced) Multiple state management using React Hooks API.
 - [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
