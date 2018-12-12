@@ -41,6 +41,7 @@
 - [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
+- [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
 
 ## Packages
 
