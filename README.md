@@ -64,6 +64,7 @@
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
+- [`react-fetch-hook`](https://github.com/ilyalesik/react-fetch-hook) React hook for conveniently use Fetch API.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks.
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
