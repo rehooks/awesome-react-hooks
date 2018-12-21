@@ -61,6 +61,7 @@
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
+- [`react-fetch-hook`](https://github.com/ilyalesik/react-fetch-hook) React hook for conveniently use Fetch API.
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
