@@ -67,6 +67,7 @@
 - [`react-fetch-hook`](https://github.com/ilyalesik/react-fetch-hook) React hook for conveniently use Fetch API.
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks.
+- [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) A collection of useful React hooks.
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`react-i18next/hooks`](https://react.i18next.com/experimental/using-with-hooks) Internationalization for react done right.
