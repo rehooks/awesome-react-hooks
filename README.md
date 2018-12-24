@@ -14,6 +14,7 @@
 
 - ["Making Sense of React Hooks" by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - ["From React.Component to hooks" by Octave Raimbault](https://medium.com/@dispix/from-react-component-to-hooks-b50241334365)
+- ["React Hooks: What’s going to happen to my tests?" by Kent C. Dodds](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-my-tests-df4c2b4d67b7)
 
 ## Videos
 
