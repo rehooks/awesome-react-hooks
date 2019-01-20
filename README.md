@@ -105,3 +105,4 @@
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
+- [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
