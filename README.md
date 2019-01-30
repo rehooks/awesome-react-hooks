@@ -70,6 +70,7 @@
 - [`react-form-stateful`](https://github.com/ckedwards/react-form-stateful) Form library. Exposes dispatch to allow for the library to be extended through side effects.
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks.
 - [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) A collection of useful React hooks.
+- [`react-hook-mousetrap`](https://www.npmjs.com/package/react-hook-mousetrap) A hook to trigger callbacks on keys or keys combos, powered by mousetrap.
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
