@@ -57,6 +57,7 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
+- [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
