@@ -77,6 +77,7 @@
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
 - [`react-i18next/hooks`](https://react.i18next.com/experimental/using-with-hooks) Internationalization for react done right.
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
+- [`react-indicative-hooks`](https://github.com/marceloadsj/react-indicative-hooks) Hooks wrapping a data validation library called [Indicative](http://indicative.adonisjs.com)
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component.
 - [`react-media-hook`](https://github.com/lessmess-agency/react-media-hook) React hook for Media Queries.
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
