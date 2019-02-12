@@ -35,6 +35,7 @@
 - [`hooks.macro`](https://www.npmjs.com/package/hooks.macro) Babel Macros for automatic memoization invalidation
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 - [React Hooks Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
+- [`withHooksSupport`](https://www.npmjs.com/package/with-hooks-support) HOC for adding hooks support to class components.
 
 ## Catalogs
 
