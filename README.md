@@ -118,3 +118,6 @@
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
+- [`useLocalStorage`](https://github.com/chrisjpatty/crooks#useLocalStorage) Automatically syncs state changes with a specified localstorage key.
+- [`useKeyboardShortcut`](https://github.com/chrisjpatty/crooks#useKeyboardShortcut) Quickly subscribe to global keyboard events and fire actions based on a keyCode.
+- [`useFiler`](https://github.com/chrisjpatty/crooks#useFiler) Simulate a simple file system with full CRUD in a browser using localstorage. 
