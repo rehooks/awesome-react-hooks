@@ -120,4 +120,4 @@
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers
-- [`usePortal`](https://github.com/alex-cory/react-useportal) ⏱ A React hook for using Portals ([react-useportal](https://github.com/alex-cory/react-useportal))
+- [`usePortal`](https://github.com/alex-cory/react-useportal) 🌀 A React hook for using Portals ([react-useportal](https://github.com/alex-cory/react-useportal))
