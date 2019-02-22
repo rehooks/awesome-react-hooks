@@ -73,6 +73,7 @@
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks.
 - [`react-hook-mousetrap`](https://www.npmjs.com/package/react-hook-mousetrap) A hook to trigger callbacks on keys or keys combos, powered by mousetrap.
 - [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) A collection of useful React hooks.
+- [`react-hooks-easy-redux`](https://github.com/dai-shi/react-hooks-easy-redux) React hooks for Redux with Proxy-based auto-detection of state usage.
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
 - [`react-hooks-image-size`](https://github.com/use-hooks/react-hooks-image-size) Hook to get natural image size from url.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
