@@ -90,8 +90,8 @@
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
-- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal)  React hook for manage modal
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
+- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal)  React hook for manage modal
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
