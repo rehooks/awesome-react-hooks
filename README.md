@@ -1,6 +1,6 @@
 # awesome-react-hooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome React Hooks Resources
+> 令人惊叹的 React Hooks 资源
 
 ## Documentation
 
@@ -49,8 +49,8 @@
 ## Packages
 
 - [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
-- [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
-- [`@rehooks/document-title`](https://github.com/rehooks/document-title) React hook for updating the document-title.
+- [`@rehooks/component-size`](https://github.com/rehooks/component-size) 用于确定组件大小的 React hook.
+- [`@rehooks/document-title`](https://github.com/rehooks/document-title) 用于更新文档标题 React hooks.
 - [`@rehooks/document-visibility`](https://github.com/rehooks/document-visibility) React hook for subscribing to document visibility.
 - [`@rehooks/input-value`](https://github.com/rehooks/input-value) React hook for creating input values.
 - [`@rehooks/local-storage`](https://github.com/rehooks/local-storage) React hook which syncs `localStorage[key]` with the comp.
@@ -59,7 +59,7 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
-- [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
+- [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook 工具函数库.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
@@ -122,8 +122,8 @@
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`use-t`](https://github.com/streamich/use-t) Multi-language using hooks.
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
-- [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
-- [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
+- [`useDarkMode`](https://github.com/donavon/use-dark-mode) 一个自定义的 React Hook 组件,帮助你实现组件的暗色模式.
+- [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React Hooks 实现输入框邮箱后缀自动补全 .
 - [`usePortal`](https://github.com/alex-cory/react-useportal) 🌀 A React hook for using Portals.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
