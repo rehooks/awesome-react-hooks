@@ -115,6 +115,7 @@
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-hotkeys`](https://github.com/sandiiarov/use-hotkeys) HotKeys.js React Hook that listen to keydown and keyup keyboard events, defining and dispatching keyboard shortcuts.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
+- [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
 - [`use-redux`](https://github.com/flepretre/use-redux) A hook to bind [redux](https://redux.js.org).
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
