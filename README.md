@@ -126,6 +126,7 @@
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
+- [`use-popper`](https://github.com/sandiiarov/use-popper) React hook wrapper around Popper.js.
 - [`use-react-router`](https://github.com/CharlesStover/use-react-router) React Hook for pub-sub behavior using React Router.
 - [`use-redux`](https://github.com/flepretre/use-redux) A hook to bind [redux](https://redux.js.org).
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
