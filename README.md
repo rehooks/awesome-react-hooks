@@ -50,6 +50,7 @@
 ## Packages
 
 - [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
+- [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
 - [`@marvelsq/use-properties-hook`](https://github.com/MarvelSQ/use-properties-hook) Instance functions inside FunctionComponent like `class-properties` and equal in `ShallowCompare`
 - [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
 - [`@rehooks/document-title`](https://github.com/rehooks/document-title) React hook for updating the document-title.
