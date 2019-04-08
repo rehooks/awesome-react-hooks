@@ -143,3 +143,4 @@
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers
+- [`use-eazy-auth`](https://github.com/gffuma/use-eazy-auth) React hooks for handle auth stuff
