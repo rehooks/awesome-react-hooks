@@ -102,6 +102,7 @@
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
 - [`react-use-modal`](https://github.com/wowlusitong/react-use-modal)  React hook for manage modal
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
+- [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
 - [`react-usemiddleware`](https://github.com/venil7/react-usemiddleware) React hook for using existing Redux middlewares (like thunk or saga) with `useReducer`.
