@@ -126,6 +126,7 @@
 - [`use-hotkeys`](https://github.com/sandiiarov/use-hotkeys) HotKeys.js React Hook that listen to keydown and keyup keyboard events, defining and dispatching keyboard shortcuts.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
+- [`use-multiselect`](https://github.com/jschloer/use-multiselect) Manage multiselect state.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
 - [`use-popper`](https://github.com/sandiiarov/use-popper) React hook wrapper around Popper.js.
 - [`use-react-router`](https://github.com/CharlesStover/use-react-router) React Hook for pub-sub behavior using React Router.
