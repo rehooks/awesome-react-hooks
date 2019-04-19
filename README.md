@@ -36,7 +36,7 @@
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 - [React Hooks Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
 - [`withHooksSupport`](https://www.npmjs.com/package/with-hooks-support) HOC for adding hooks support to class components.
-- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components 
+- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use**\*\*** everywhere, Functional or Class Components
 - [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
 
 ## Catalogs
@@ -97,7 +97,7 @@
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
-- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal)  React hook for manage modal
+- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal) React hook for manage modal
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
@@ -136,3 +136,4 @@
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers
+- [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality
