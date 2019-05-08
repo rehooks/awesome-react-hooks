@@ -124,6 +124,7 @@
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-force-update`](https://github.com/CharlesStover/use-force-update) React hook for forcing re-render of a functional Component.
 - [`use-hotkeys`](https://github.com/sandiiarov/use-hotkeys) HotKeys.js React Hook that listen to keydown and keyup keyboard events, defining and dispatching keyboard shortcuts.
+- [`use-http`](https://github.com/alex-cory/use-http) 🐶 useFetch, a React hook for making isomorphic http requests.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
@@ -138,7 +139,6 @@
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
-- [`use-http`](https://github.com/alex-cory/use-http) 🐶 useFetch, a React hook for making isomorphic http requests
 - [`usePortal`](https://github.com/alex-cory/react-useportal) 🌀 A React hook for using Portals.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
