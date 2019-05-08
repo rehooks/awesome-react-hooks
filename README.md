@@ -121,6 +121,7 @@
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
 - [`use-dimensions`](https://github.com/CharlesStover/use-dimensions) React Native hook for getting screen and window dimensions.
+- [`use-eazy-auth`](https://github.com/gffuma/use-eazy-auth) React hooks for handle auth stuff.
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-force-update`](https://github.com/CharlesStover/use-force-update) React hook for forcing re-render of a functional Component.
 - [`use-hotkeys`](https://github.com/sandiiarov/use-hotkeys) HotKeys.js React Hook that listen to keydown and keyup keyboard events, defining and dispatching keyboard shortcuts.
