@@ -102,7 +102,7 @@
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
-- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal)  React hook for manage modal
+- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal) React hook for manage modal
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
@@ -119,11 +119,13 @@
 - [`rrh`](https://github.com/brn/rrh) Super Simple React Hooks for react-redux.
 - [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
+- [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers.
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality. 
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
+- [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
 - [`use-dimensions`](https://github.com/CharlesStover/use-dimensions) React Native hook for getting screen and window dimensions.
 - [`use-eazy-auth`](https://github.com/gffuma/use-eazy-auth) React hooks for handle auth stuff.
@@ -150,4 +152,3 @@
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
-- [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers
