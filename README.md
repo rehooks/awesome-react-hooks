@@ -38,7 +38,7 @@
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 - [React Hooks Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
 - [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) Helper to build HOCs using hooks. Useful for using hooks with class components.
-- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components 
+- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components
 - [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
 
 ## Catalogs
@@ -102,7 +102,8 @@
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
-- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal) React hook for manage modal
+- [`react-use-modal`](https://github.com/wowlusitong/react-use-modal) React hook for manage modal.
+- [`react-use-path`](https://github.com/zhangkaiyulw/react-use-path) The tiniest hook style react router.
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
