@@ -45,6 +45,7 @@
 
 ## Catalogs
 
+- [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
 - [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
@@ -126,7 +127,7 @@
 - [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers.
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
-- [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality. 
+- [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
