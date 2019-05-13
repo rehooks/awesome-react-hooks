@@ -94,6 +94,7 @@
 - [`react-indicative-hooks`](https://github.com/marceloadsj/react-indicative-hooks) Hooks wrapping a data validation library called [Indicative](http://indicative.adonisjs.com)
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component.
 - [`react-media-hook`](https://github.com/lessmess-agency/react-media-hook) React hook for Media Queries.
+- [`react-metatags-hook`](https://github.com/lordgiotto/react-metatags-hook) React Hook to manage html meta tags.
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) Hooks api for react-powerplug components.
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
