@@ -97,6 +97,7 @@
 - [`react-metatags-hook`](https://github.com/lordgiotto/react-metatags-hook) React Hook to manage html meta tags.
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) Hooks api for react-powerplug components.
+- [`react-promiseful`](https://github.com/moxystudio/react-promiseful) A React component and hook to render children conditionally based on a promise status.
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
 - [`react-speech-kit`](https://github.com/MikeyParton/react-speech-kit) Hooks for browser Speech Recognition and Speech Synthesis.
