@@ -101,7 +101,6 @@
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
 - [`react-speech-kit`](https://github.com/MikeyParton/react-speech-kit) Hooks for browser Speech Recognition and Speech Synthesis.
-- [`react-user-media`](https://github.com/vardius/react-user-media) React wrapper for `navigator.getUserMedia`
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
@@ -115,6 +114,7 @@
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
 - [`react-usemiddleware`](https://github.com/venil7/react-usemiddleware) React hook for using existing Redux middlewares (like thunk or saga) with `useReducer`.
+- [`react-user-media`](https://github.com/vardius/react-user-media) React wrapper for `navigator.getUserMedia`.
 - [`react-wait`](https://github.com/f/react-wait) Complex Loader Management Hook for React Applications.
 - [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) React hook to communicate among browser contexts (tabs, windows, iframes).
 - [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) Ponyfill for the proposed React Hooks API.
