@@ -112,6 +112,7 @@
 - [`react-use-path`](https://github.com/zhangkaiyulw/react-use-path) The tiniest hook style react router.
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
+- [`react-use-state-x`](https://github.com/avkonst/react-use-state-x) Tiny, type-safe, feature-rich useState-like hook to manage complex state (objects, arrays, nested data, forms) and global stores (alternative to Redux/Mobx)
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
 - [`react-usemiddleware`](https://github.com/venil7/react-usemiddleware) React hook for using existing Redux middlewares (like thunk or saga) with `useReducer`.
