@@ -89,6 +89,7 @@
 - [`react-hooks-image-size`](https://github.com/use-hooks/react-hooks-image-size) Hook to get natural image size from url.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
+- [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) Form validation without the hassle.
 - [`react-i18next`](https://react.i18next.com/latest/usetranslation-hook) Internationalization for react done right.
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
 - [`react-indicative-hooks`](https://github.com/marceloadsj/react-indicative-hooks) Hooks wrapping a data validation library called [Indicative](http://indicative.adonisjs.com)
