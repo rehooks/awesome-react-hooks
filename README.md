@@ -85,11 +85,11 @@
 - [`react-hook-mousetrap`](https://www.npmjs.com/package/react-hook-mousetrap) A hook to trigger callbacks on keys or keys combos, powered by mousetrap.
 - [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) A collection of useful React hooks.
 - [`react-hooks-easy-redux`](https://github.com/dai-shi/react-hooks-easy-redux) React hooks for Redux with Proxy-based auto-detection of state usage.
+- [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) Form validation without the hassle.
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
 - [`react-hooks-image-size`](https://github.com/use-hooks/react-hooks-image-size) Hook to get natural image size from url.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
-- [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) Form validation without the hassle.
 - [`react-i18next`](https://react.i18next.com/latest/usetranslation-hook) Internationalization for react done right.
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
 - [`react-indicative-hooks`](https://github.com/marceloadsj/react-indicative-hooks) Hooks wrapping a data validation library called [Indicative](http://indicative.adonisjs.com)
