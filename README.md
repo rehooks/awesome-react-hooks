@@ -168,3 +168,4 @@
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
+- [`useAttentionWithin`](https://gist.github.com/brayhoward/0cfb73ef0c6f75d633e876d64bbf9d4b) A React hook for determining whether or not a section of DOM still has the users attention. It's like clickAway logic on steroids
