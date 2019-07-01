@@ -162,10 +162,10 @@
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`use-t`](https://github.com/streamich/use-t) Multi-language using hooks.
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
+- [`useAttentionWithin`](https://gist.github.com/brayhoward/0cfb73ef0c6f75d633e876d64bbf9d4b) A React hook for determining whether or not a section of DOM still has the users attention. It's like clickAway logic on steroids
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
 - [`usePortal`](https://github.com/alex-cory/react-useportal) 🌀 A React hook for using Portals.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
-- [`useAttentionWithin`](https://gist.github.com/brayhoward/0cfb73ef0c6f75d633e876d64bbf9d4b) A React hook for determining whether or not a section of DOM still has the users attention. It's like clickAway logic on steroids
