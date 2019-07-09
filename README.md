@@ -19,6 +19,7 @@
 - ["How to Fetch Data with React Hooks?" by Robin Wieruch](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/)
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
+- ["Using Custom React Hooks to Simplify Forms" by James King](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
 
 ## Videos
 
@@ -74,6 +75,7 @@
 - [`fetch-suspense`](https://github.com/CharlesStover/fetch-suspense) React hook for the Fetch API with support for Suspense.
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
+- [`modali`](https://github.com/upmostly/modali) A delightful modal dialog component for React, built from the ground up to support React Hooks.
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
