@@ -111,6 +111,7 @@
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
+- [`react-use-fetch-factory`](https://github.com/JohannesKlauss/react-use-fetch-factory) React hook that takes care of fetching and selecting data with redux.
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
