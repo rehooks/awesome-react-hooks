@@ -20,6 +20,7 @@
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/)
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
 - ["Using Custom React Hooks to Simplify Forms" by James King](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
+- [Testing of a Custom React Hook for Fetching Data with Axios](https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1)
 
 ## Videos
 
@@ -43,6 +44,7 @@
 - [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) Helper to build HOCs using hooks. Useful for using hooks with class components.
 - [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components
 - [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
+- [`react-hooks-testing-library`](https://react-hooks-testing-library.com/) Library to create unit tests for custom React hooks.
 
 ## Catalogs
 
