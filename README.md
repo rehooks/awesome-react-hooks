@@ -106,6 +106,7 @@
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) Hooks api for react-powerplug components.
 - [`react-promiseful`](https://github.com/moxystudio/react-promiseful) A React component and hook to render children conditionally based on a promise status.
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
+- [`react-rocketjump`](https://github.com/inmagik/react-rocketjump) Manage state and side effects like a breeze.
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
 - [`react-speech-kit`](https://github.com/MikeyParton/react-speech-kit) Hooks for browser Speech Recognition and Speech Synthesis.
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
