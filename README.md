@@ -108,6 +108,7 @@
 - [`react-recaptcha-hook`](https://github.com/hupe1980/react-recaptcha-hook) React hook for google-recaptcha v3
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
 - [`react-rocketjump`](https://github.com/inmagik/react-rocketjump) Manage state and side effects like a breeze.
+- [`react-script-hook`](https://github.com/hupe1980/react-script-hook) React hook to dynamically load an external script and know when its loaded
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
 - [`react-speech-kit`](https://github.com/MikeyParton/react-speech-kit) Hooks for browser Speech Recognition and Speech Synthesis.
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
