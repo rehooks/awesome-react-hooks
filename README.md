@@ -59,6 +59,7 @@
 ## Packages
 
 - [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
+- [`@hookstate/core`](https://github.com/avkonst/hookstate) Modern, very fast and extendable state management for React.
 - [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
 - [`@marvelsq/use-properties-hook`](https://github.com/MarvelSQ/use-properties-hook) Instance functions inside FunctionComponent like `class-properties` and equal in `ShallowCompare`
 - [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
@@ -125,7 +126,6 @@
 - [`react-use-modal`](https://github.com/wowlusitong/react-use-modal) React hook for manage modal.
 - [`react-use-path`](https://github.com/zhangkaiyulw/react-use-path) The tiniest hook style react router.
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
-- [`react-use-state-x`](https://github.com/avkonst/react-use-state-x) Tiny, type-safe, feature-rich useState-like hook to manage complex state (objects, arrays, nested data, forms) and global stores (alternative to Redux/Mobx)
 - [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
 - [`react-use-wavelet`](https://github.com/perlin-network/react-use-wavelet) React hooks for connecting to the Wavelet smart-contract platform
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
