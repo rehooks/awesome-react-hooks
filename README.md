@@ -55,6 +55,7 @@
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
+- [@umijs/hooks(🍚)](https://hooks.umijs.org/) A collection of React Hooks specifically aiming at enterprise applications.
 - [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
 
 ## Packages
