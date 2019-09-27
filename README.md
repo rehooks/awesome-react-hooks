@@ -145,6 +145,7 @@
 - [`reto`](https://awmleer.github.io/reto) Flexible and efficient React store with hooks.
 - [`rrh`](https://github.com/brn/rrh) Super Simple React Hooks for react-redux.
 - [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
+- [`style-hook`](https://github.com/style-hook/style-hook) 🎨 wirte css in js with react hooks.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers.
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
