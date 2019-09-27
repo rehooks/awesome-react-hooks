@@ -157,6 +157,7 @@
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
+- [`use-deep-compare`](https://github.com/sandiiarov/use-deep-compare) It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
 - [`use-dimensions`](https://github.com/CharlesStover/use-dimensions) React Native hook for getting screen and window dimensions.
