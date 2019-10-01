@@ -98,6 +98,7 @@
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
 - [`react-hooks-image-size`](https://github.com/use-hooks/react-hooks-image-size) Hook to get natural image size from url.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
+- [`react-hooks-svgdrawing`](https://github.com/kmkzt/react-hooks-svgdrawing) A hooks to svg drawing.
 - [`react-hooks-use-modal`](https://github.com/shibe97/react-hooks-use-modal) A hook to open the modal easily.
 - [`react-hooks-visible`](https://github.com/kmkzt/react-hooks-visible) A hook to element visibility. Uses the intersection observer API.
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
