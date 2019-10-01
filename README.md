@@ -99,6 +99,7 @@
 - [`react-hooks-image-size`](https://github.com/use-hooks/react-hooks-image-size) Hook to get natural image size from url.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`react-hooks-use-modal`](https://github.com/shibe97/react-hooks-use-modal) A hook to open the modal easily.
+- [`react-hooks-visible`](https://github.com/kmkzt/react-hooks-visible) A hook to element visibility. Uses the intersection observer API.
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
 - [`react-i18next`](https://react.i18next.com/latest/usetranslation-hook) Internationalization for react done right.
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
