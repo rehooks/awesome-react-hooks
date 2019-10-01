@@ -73,6 +73,7 @@
 - [`@rehooks/online-status`](https://github.com/rehooks/online-status) React Hook for Online status.
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
+- [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
