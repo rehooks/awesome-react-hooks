@@ -116,6 +116,7 @@
 - [`react-speech-kit`](https://github.com/MikeyParton/react-speech-kit) Hooks for browser Speech Recognition and Speech Synthesis.
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
 - [`react-swipeable`](https://github.com/dogfessional/react-swipeable) React swipe event handler hook.
+- [`react-use-api`](https://github.com/RyanRoll/react-use-api) Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
