@@ -124,6 +124,7 @@
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
 - [`react-swipeable`](https://github.com/dogfessional/react-swipeable) React swipe event handler hook.
 - [`react-use-api`](https://github.com/RyanRoll/react-use-api) Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.
+- [`react-use-browser`](https://github.com/crossroads-loyalty-solutions/react-use-browser) A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
@@ -186,7 +187,6 @@
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
 - [`use-socket.io-client`](https://github.com/iamgyz/use-socket.io-client) React hook for socket.io-client, manipulate [socket.io](https://socket.io) client without any side effect.
 - [`use-ssr`](https://github.com/alex-cory/use-ssr) React hook to determine if you are on the server or browser.
-- [`use-browser`](https://github.com/crossroads-loyalty-solutions/react-use-browser) A hook enabling client markup to differ from server markup.
 - [`use-state-snapshots`](https://github.com/haydn/use-state-snapshots) A React hook to keep track of state changes for undo/redo functionality.
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`use-t`](https://github.com/streamich/use-t) Multi-language using hooks.
