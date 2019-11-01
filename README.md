@@ -143,6 +143,7 @@
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
 - [`react-usemiddleware`](https://github.com/venil7/react-usemiddleware) React hook for using existing Redux middlewares (like thunk or saga) with `useReducer`.
+- [`react-useportal`](https://github.com/alex-cory/react-useportal) 🌀 usePortal, React hook for Portals
 - [`react-user-media`](https://github.com/vardius/react-user-media) React wrapper for `navigator.getUserMedia`.
 - [`react-wait`](https://github.com/f/react-wait) Complex Loader Management Hook for React Applications.
 - [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) React hook to communicate among browser contexts (tabs, windows, iframes).
@@ -195,7 +196,6 @@
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
-- [`usePortal`](https://github.com/alex-cory/react-useportal) 🌀 A React hook for using Portals.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
