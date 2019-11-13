@@ -112,6 +112,7 @@
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component.
 - [`react-media-hook`](https://github.com/lessmess-agency/react-media-hook) React hook for Media Queries.
 - [`react-metatags-hook`](https://github.com/lordgiotto/react-metatags-hook) React Hook to manage html meta tags.
+- [`react-hook-mighty-mouse`](https://github.com/mkosir/react-hook-mighty-mouse) React hook that tracks mouse events on selected element 🐭
 - [`react-page-name`](https://github.com/RyanFitzgerald/react-page-name) React Hook for managing the page title.
 - [`react-peer-data`](https://github.com/vardius/react-peer-data) React wrapper for PeerData library for files, media streaming/sharing using WebRTC.
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
