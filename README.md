@@ -43,7 +43,7 @@
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 - [React Hooks Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
 - [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) Helper to build HOCs using hooks. Useful for using hooks with class components.
-- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components
+- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use**\*\*** everywhere, Functional or Class Components
 - [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
 - [`react-hooks-testing-library`](https://react-hooks-testing-library.com/) Library to create unit tests for custom React hooks.
 
@@ -112,6 +112,7 @@
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component.
 - [`react-media-hook`](https://github.com/lessmess-agency/react-media-hook) React hook for Media Queries.
 - [`react-metatags-hook`](https://github.com/lordgiotto/react-metatags-hook) React Hook to manage html meta tags.
+- [`react-hook-mighty-mouse`](https://github.com/mkosir/react-hook-mighty-mouse) React hook that tracks mouse events on selected element 🐭
 - [`react-page-name`](https://github.com/RyanFitzgerald/react-page-name) React Hook for managing the page title.
 - [`react-peer-data`](https://github.com/vardius/react-peer-data) React wrapper for PeerData library for files, media streaming/sharing using WebRTC.
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
