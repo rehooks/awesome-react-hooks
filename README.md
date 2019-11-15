@@ -95,6 +95,7 @@
 - [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) A collection of hooks for use with [Firebase](https://firebase.google.com).
 - [`react-form-stateful`](https://github.com/ckedwards/react-form-stateful) Form library. Exposes dispatch to allow for the library to be extended through side effects.
 - [`react-hanger`](https://github.com/kitze/react-hanger) A small collection of utility hooks.
+- [`react-hook-mighty-mouse`](https://github.com/mkosir/react-hook-mighty-mouse) React hook that tracks mouse events on selected element 🐭
 - [`react-hook-mousetrap`](https://www.npmjs.com/package/react-hook-mousetrap) A hook to trigger callbacks on keys or keys combos, powered by mousetrap.
 - [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) A collection of useful React hooks.
 - [`react-hooks-easy-redux`](https://github.com/dai-shi/react-hooks-easy-redux) React hooks for Redux with Proxy-based auto-detection of state usage.
@@ -112,7 +113,6 @@
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component.
 - [`react-media-hook`](https://github.com/lessmess-agency/react-media-hook) React hook for Media Queries.
 - [`react-metatags-hook`](https://github.com/lordgiotto/react-metatags-hook) React Hook to manage html meta tags.
-- [`react-hook-mighty-mouse`](https://github.com/mkosir/react-hook-mighty-mouse) React hook that tracks mouse events on selected element 🐭
 - [`react-page-name`](https://github.com/RyanFitzgerald/react-page-name) React Hook for managing the page title.
 - [`react-peer-data`](https://github.com/vardius/react-peer-data) React wrapper for PeerData library for files, media streaming/sharing using WebRTC.
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
