@@ -54,6 +54,7 @@
 - [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
 - [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
+- [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
@@ -119,7 +120,9 @@
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) Hooks api for react-powerplug components.
 - [`react-promiseful`](https://github.com/moxystudio/react-promiseful) A React component and hook to render children conditionally based on a promise status.
 - [`react-recaptcha-hook`](https://github.com/hupe1980/react-recaptcha-hook) React hook for google-recaptcha v3
-- [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
+- [`react-recipes`](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
+- [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api 
+requests.
 - [`react-rocketjump`](https://github.com/inmagik/react-rocketjump) Manage state and side effects like a breeze.
 - [`react-script-hook`](https://github.com/hupe1980/react-script-hook) React hook to dynamically load an external script and know when its loaded
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
