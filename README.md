@@ -63,7 +63,6 @@
 ## Packages
 
 - [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
-- [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
 - [`@d2k/react-devto`](https://github.com/bdbch/react-devto) React hook for Dev.to API requests
 - [`@d2k/react-github`](https://github.com/bdbch/react-github) React hook for Github API requests
 - [`@d2k/react-localstorage`](https://github.com/bdbch/react-localstorage) React hook that handles updating and clearing localstorage values while keeping them in sync with your components.
@@ -83,6 +82,7 @@
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
+- [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
 - [`fetch-suspense`](https://github.com/CharlesStover/fetch-suspense) React hook for the Fetch API with support for Suspense.
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
