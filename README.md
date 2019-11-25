@@ -63,6 +63,7 @@
 ## Packages
 
 - [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
+- [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
 - [`@d2k/react-devto`](https://github.com/bdbch/react-devto) React hook for Dev.to API requests
 - [`@d2k/react-github`](https://github.com/bdbch/react-github) React hook for Github API requests
 - [`@d2k/react-localstorage`](https://github.com/bdbch/react-localstorage) React hook that handles updating and clearing localstorage values while keeping them in sync with your components.
@@ -205,4 +206,3 @@ requests.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
-- [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
