@@ -90,6 +90,8 @@
 - [`modali`](https://github.com/upmostly/modali) A delightful modal dialog component for React, built from the ground up to support React Hooks.
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
+- [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
+- [`react-context-refs`](https://github.com/megazazik/react-context-refs) React hooks for getting refs of elements via context.
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
@@ -122,8 +124,7 @@
 - [`react-promiseful`](https://github.com/moxystudio/react-promiseful) A React component and hook to render children conditionally based on a promise status.
 - [`react-recaptcha-hook`](https://github.com/hupe1980/react-recaptcha-hook) React hook for google-recaptcha v3
 - [`react-recipes`](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
-- [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api 
-requests.
+- [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
 - [`react-rocketjump`](https://github.com/inmagik/react-rocketjump) Manage state and side effects like a breeze.
 - [`react-script-hook`](https://github.com/hupe1980/react-script-hook) React hook to dynamically load an external script and know when its loaded
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
