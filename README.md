@@ -85,6 +85,7 @@
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
 - [`modali`](https://github.com/upmostly/modali) A delightful modal dialog component for React, built from the ground up to support React Hooks.
+- [`nice-hooks`](https://github.com/daniel-dx/nice-hooks) 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
@@ -197,4 +198,3 @@
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
-- [`nice-hooks`](https://github.com/daniel-dx/nice-hooks) 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)
