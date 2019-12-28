@@ -166,6 +166,7 @@
 - [`reto`](https://awmleer.github.io/reto) Flexible and efficient React store with hooks.
 - [`rrh`](https://github.com/brn/rrh) Super Simple React Hooks for react-redux.
 - [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
+- [`scroll-data-hook`](https://github.com/dejorrit/scroll-data-hook) Returns information about scroll speed, distance, direction and more.
 - [`style-hook`](https://github.com/style-hook/style-hook) 🎨 wirte css in js with react hooks.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers.
