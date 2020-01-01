@@ -46,6 +46,7 @@
 - [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components
 - [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
 - [`react-hooks-testing-library`](https://react-hooks-testing-library.com/) Library to create unit tests for custom React hooks.
+- [StoryTab](https://github.com/mkosir/story-tab) CLI tool for generating React component code as documentation in Storybook tab 📑
 
 ## Catalogs
 
