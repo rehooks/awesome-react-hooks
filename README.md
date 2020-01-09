@@ -169,7 +169,7 @@
 - [`scroll-data-hook`](https://github.com/dejorrit/scroll-data-hook) Returns information about scroll speed, distance, direction and more.
 - [`style-hook`](https://github.com/style-hook/style-hook) 🎨 wirte css in js with react hooks.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
-- [`trousers`](https://github.com/danieldelcore/trousers) Give your React components some style with Trousers.
+- [`trousers`](https://github.com/danieldelcore/trousers) 👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 - [`use-action`](https://github.com/awmleer/use-action) Almost same to useEffect, but not deferred.
 - [`use-async-memo`](https://github.com/awmleer/use-async-memo) React hook for generating async memoized data.
