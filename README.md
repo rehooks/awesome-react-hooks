@@ -94,6 +94,7 @@
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
 - [`react-context-refs`](https://github.com/megazazik/react-context-refs) React hooks for getting refs of elements via context.
+- [`react-cool-onclickoutside`](https://github.com/wellyshen/react-cool-onclickoutside) 🖱 React hook to listen for clicks outside of the component(s).
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
