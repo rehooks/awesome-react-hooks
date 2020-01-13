@@ -89,6 +89,7 @@
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
 - [`modali`](https://github.com/upmostly/modali) A delightful modal dialog component for React, built from the ground up to support React Hooks.
+- [`moment-hooks`](https://github.com/momentechnologies/moment-hooks) A library containing generic react hooks
 - [`nice-hooks`](https://github.com/daniel-dx/nice-hooks) 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
