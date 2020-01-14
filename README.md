@@ -171,6 +171,7 @@
 - [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) An easy way to use RxJS v6+ with react hooks.
 - [`scroll-data-hook`](https://github.com/dejorrit/scroll-data-hook) Returns information about scroll speed, distance, direction and more.
 - [`style-hook`](https://github.com/style-hook/style-hook) 🎨 wirte css in js with react hooks.
+- [`swr`](https://github.com/zeit/swr) React Hooks library for remote data fetching.
 - [`the-platform`](https://github.com/palmerhq/the-platform) Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [`trousers`](https://github.com/danieldelcore/trousers) 👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
