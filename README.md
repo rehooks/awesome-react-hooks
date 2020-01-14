@@ -93,6 +93,7 @@
 - [`moment-hooks`](https://github.com/momentechnologies/moment-hooks) A library containing generic react hooks
 - [`nice-hooks`](https://github.com/daniel-dx/nice-hooks) 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
+- [`reactive-react-redux`](https://github.com/dai-shi/reactive-react-redux) React Redux binding with React Hooks and Proxy
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
 - [`react-context-refs`](https://github.com/megazazik/react-context-refs) React hooks for getting refs of elements via context.
@@ -107,14 +108,15 @@
 - [`react-hook-mighty-mouse`](https://github.com/mkosir/react-hook-mighty-mouse) React hook that tracks mouse events on selected element 🐭
 - [`react-hook-mousetrap`](https://www.npmjs.com/package/react-hook-mousetrap) A hook to trigger callbacks on keys or keys combos, powered by mousetrap.
 - [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) A collection of useful React hooks.
-- [`react-hooks-easy-redux`](https://github.com/dai-shi/react-hooks-easy-redux) React hooks for Redux with Proxy-based auto-detection of state usage.
 - [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) Form validation without the hassle.
+- [`react-hooks-async`](https://github.com/dai-shi/react-hooks-async) React custom hooks for async functions with abortability and composability
 - [`react-hooks-global-state`](https://github.com/dai-shi/react-hooks-global-state) A simple global state management.
 - [`react-hooks-image-size`](https://github.com/use-hooks/react-hooks-image-size) Hook to get natural image size from url.
 - [`react-hooks-lib`](https://github.com/beizhedenglong/react-hooks-lib) A set of reusable react hooks.
 - [`react-hooks-svgdrawing`](https://github.com/kmkzt/react-hooks-svgdrawing) A hooks to svg drawing.
 - [`react-hooks-use-modal`](https://github.com/shibe97/react-hooks-use-modal) A hook to open the modal easily.
 - [`react-hooks-visible`](https://github.com/kmkzt/react-hooks-visible) A hook to element visibility. Uses the intersection observer API.
+- [`react-hooks-worker`](https://github.com/dai-shi/react-hooks-worker) React custom hooks for web workers
 - [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) React hook for hotkeys.
 - [`react-i18next`](https://react.i18next.com/latest/usetranslation-hook) Internationalization for react done right.
 - [`react-immer-hooks`](https://github.com/sin/react-immer-hooks) useState and useReducer using Immer to update state.
@@ -136,6 +138,7 @@
 - [`react-speech-kit`](https://github.com/MikeyParton/react-speech-kit) Hooks for browser Speech Recognition and Speech Synthesis.
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
 - [`react-swipeable`](https://github.com/dogfessional/react-swipeable) React swipe event handler hook.
+- [`react-tracked`](https://github.com/dai-shi/react-tracked) Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 - [`react-use-api`](https://github.com/RyanRoll/react-use-api) Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.
 - [`react-use-browser`](https://github.com/crossroads-loyalty-solutions/react-use-browser) A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
@@ -181,6 +184,7 @@
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
+- [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland
 - [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
 - [`use-deep-compare`](https://github.com/sandiiarov/use-deep-compare) It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
@@ -199,6 +203,7 @@
 - [`use-react-modal`](https://github.com/alex-cory/use-react-modal) 🖼 useModal, React hook for Modals/Dialogs/Lightboxes
 - [`use-react-router`](https://github.com/CharlesStover/use-react-router) React Hook for pub-sub behavior using React Router.
 - [`use-reactive-state`](https://github.com/tedstoychev/use-reactive-state) `useReactiveState()` - a reactive alternative to React's `useState()`.
+- [`use-reducer-async`](https://github.com/dai-shi/use-reducer-async) React useReducer with async actions
 - [`use-redux`](https://github.com/flepretre/use-redux) A hook to bind [redux](https://redux.js.org).
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
