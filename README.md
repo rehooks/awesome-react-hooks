@@ -201,6 +201,7 @@
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
 - [`use-multiselect`](https://github.com/jschloer/use-multiselect) Manage multiselect state.
 - [`use-popper`](https://github.com/sandiiarov/use-popper) React hook wrapper around Popper.js.
+- [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) 📍 React hook for Google Maps Places Autocomplete.
 - [`use-react-modal`](https://github.com/alex-cory/use-react-modal) 🖼 useModal, React hook for Modals/Dialogs/Lightboxes
 - [`use-react-router`](https://github.com/CharlesStover/use-react-router) React Hook for pub-sub behavior using React Router.
 - [`use-reactive-state`](https://github.com/tedstoychev/use-reactive-state) `useReactiveState()` - a reactive alternative to React's `useState()`.
