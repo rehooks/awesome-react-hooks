@@ -22,6 +22,7 @@
 - ["Using Custom React Hooks to Simplify Forms" by James King](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
 - [Testing of a Custom React Hook for Fetching Data with Axios](https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1)
 - [The Guide to Learning React Hooks (Examples & Tutorials) by Eric Bishard](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
+- ["Sanely Testing React Hooks" by Dave Cooper](https://dev.to/grug/sanely-testing-react-hooks-2l1j)
 
 ## Videos
 
@@ -145,6 +146,7 @@
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
 - [`react-use-fetch-factory`](https://github.com/JohannesKlauss/react-use-fetch-factory) React hook that takes care of fetching and selecting data with redux.
+- [`react-use-fetch-with-redux`](https://github.com/grug/react-use-fetch-with-redux/) React hook that caches API requests that works with redux.
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-id-hook`](https://github.com/Yaska/react-use-id-hook) React hook for generating SSR-safe unique id strings.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
