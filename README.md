@@ -216,6 +216,7 @@
 - [`use-ssr`](https://github.com/alex-cory/use-ssr) ☯️ React hook to determine if you are on the server, browser, or react native.
 - [`use-state-snapshots`](https://github.com/haydn/use-state-snapshots) A React hook to keep track of state changes for undo/redo functionality.
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
+- [`use-suspender`](https://github.com/octet-stream/use-suspender) Execute asynchronous actions with [`React.Suspense`](https://reactjs.org/docs/react-api.html#reactsuspense)
 - [`use-t`](https://github.com/streamich/use-t) Multi-language using hooks.
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
