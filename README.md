@@ -33,6 +33,11 @@
 - [🎬 React Hooks playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
 - [🎬 React Hooks playlist by Michael Chan](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g)
 
+## Books
+
+- [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
+
+
 ## Podcasts
 
 - [React Hooks - Syntax](https://syntax.fm/show/092/react-hooks)
