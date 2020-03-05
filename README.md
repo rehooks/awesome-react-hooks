@@ -224,4 +224,7 @@
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
+- [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
+
+
