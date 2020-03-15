@@ -189,6 +189,7 @@
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland
+- [`use-countries`](https://github.com/oktaysenkan/use-countries) Custom react hook to list countries and languages.
 - [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
 - [`use-deep-compare`](https://github.com/sandiiarov/use-deep-compare) It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
