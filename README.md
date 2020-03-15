@@ -71,6 +71,7 @@
 - [`@hookstate/core`](https://github.com/avkonst/hookstate) Modern, very fast and extendable state management for React.
 - [`@jzone/react-request-hook`](https://github.com/zhixiaoqiang/react-request-hook) 🐶React hook for custom request，compatible with various lib, support redux
 - [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
+- [`@koale/useworker`](https://github.com/alewin/useWorker) ⚙️ Running heavy task in background using web workers, without blocking the UI
 - [`@marvelsq/use-properties-hook`](https://github.com/MarvelSQ/use-properties-hook) Instance functions inside FunctionComponent like `class-properties` and equal in `ShallowCompare`
 - [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
 - [`@rehooks/document-title`](https://github.com/rehooks/document-title) React hook for updating the document-title.
