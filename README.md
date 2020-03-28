@@ -213,6 +213,7 @@
 - [`use-reactive-state`](https://github.com/tedstoychev/use-reactive-state) `useReactiveState()` - a reactive alternative to React's `useState()`.
 - [`use-reducer-async`](https://github.com/dai-shi/use-reducer-async) React useReducer with async actions
 - [`use-redux`](https://github.com/flepretre/use-redux) A hook to bind [redux](https://redux.js.org).
+- [`use-scroll-to-bottom`](https://github.com/tudorgergely/use-scroll-to-bottom) React hook for detecting when an element was scrolled to bottom.
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
 - [`use-socket.io-client`](https://github.com/iamgyz/use-socket.io-client) React hook for socket.io-client, manipulate [socket.io](https://socket.io) client without any side effect.
