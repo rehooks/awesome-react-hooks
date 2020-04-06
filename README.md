@@ -32,6 +32,7 @@
 - [🎬 React Hooks playlist by Ben Awad](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ)
 - [🎬 React Hooks playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
 - [🎬 React Hooks playlist by Michael Chan](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g)
+- [🎬 Custom Hooks in React by Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 
 ## Podcasts
 
