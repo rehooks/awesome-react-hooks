@@ -157,6 +157,7 @@
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
 - [`react-use-lazy-load-image`](https://github.com/robcalcroft/react-use-lazy-load-image) :sunrise: :zap: Add image lazy loading to your React app with ease
+- [`react-use-message-bar`](https://github.com/intercaetera/react-use-message-bar) A simple React hook for message bars.
 - [`react-use-modal`](https://github.com/wowlusitong/react-use-modal) React hook for manage modal.
 - [`react-use-path`](https://github.com/zhangkaiyulw/react-use-path) The tiniest hook style react router.
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
