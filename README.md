@@ -156,6 +156,7 @@
 - [`react-use-form-state`](https://github.com/wsmd/react-use-form-state) React hook for managing form and inputs state.
 - [`react-use-id-hook`](https://github.com/Yaska/react-use-id-hook) React hook for generating SSR-safe unique id strings.
 - [`react-use-idb`](https://github.com/kigiri/react-use-idb) React hook for storing value in the browser using `indexDB`.
+- [`react-use-infinite-loader`](https://github.com/CurationCorp/react-use-infinite-loader) :infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading (scroll) hook for React apps
 - [`react-use-input`](https://github.com/robcalcroft/react-use-input) 🎣 A hook whose setter can be directly given to HTML inputs
 - [`react-use-lazy-load-image`](https://github.com/robcalcroft/react-use-lazy-load-image) :sunrise: :zap: Add image lazy loading to your React app with ease
 - [`react-use-message-bar`](https://github.com/intercaetera/react-use-message-bar) A simple React hook for message bars.
