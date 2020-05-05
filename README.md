@@ -231,9 +231,11 @@
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
+- [`useKeyCapture`](https://github.com/pranesh239/use-key-capture) ⌨️ A simple hook to make keyDown listening event easier.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useReducerWithLocalStorage`](https://github.com/Tweries/useReducerWithLocalStorage) React hook that adds local storage support to the `useReducer` hook
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
+
