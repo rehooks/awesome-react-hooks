@@ -209,6 +209,7 @@
 - [`use-hovering`](https://github.com/therealparmesh/use-hovering) Simple, accessible React hook for tracking hover state.
 - [`use-http`](https://github.com/alex-cory/use-http) 🐶 useFetch, React hook for making isomorphic http requests.
 - [`use-immer`](https://github.com/mweststrate/use-immer) A hook to use [immer](https://github.com/mweststrate/immer) to manipulate state.
+- [`use-is-mounted-ref`](https://github.com/helderburato/use-is-mounted-ref) `useIsMountedRef` is a React Hook to check when the component is mounted.
 - [`use-lang-direction`](https://github.com/davidicus/use-lang-direction) A hook that reads the HTML element's `dir` attribute value and any updates to that value allowing you to update your UI accordingly.
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
@@ -240,4 +241,3 @@
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
-- [`use-is-mounted-ref`](https://github.com/helderburato/use-is-mounted-ref) `useIsMountedRef` is a React Hook to check when the component is mounted.
