@@ -240,4 +240,4 @@
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
-
+- [`use-is-mounted-ref`](https://github.com/helderburato/use-is-mounted-ref) `useIsMountedRef` is a React Hook to check when the component is mounted.
