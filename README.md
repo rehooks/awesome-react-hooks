@@ -215,6 +215,7 @@
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
 - [`use-multiselect`](https://github.com/jschloer/use-multiselect) Manage multiselect state.
+- [`use-overflow`](https://github.com/amorriscode/use-overflow) A React Hook that allows you to detect X and Y overflow
 - [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) 📍 React hook for Google Maps Places Autocomplete.
 - [`use-popper`](https://github.com/sandiiarov/use-popper) React hook wrapper around Popper.js.
 - [`use-react-modal`](https://github.com/alex-cory/use-react-modal) 🖼 useModal, React hook for Modals/Dialogs/Lightboxes
