@@ -100,6 +100,7 @@
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
 - [`react-context-refs`](https://github.com/megazazik/react-context-refs) React hooks for getting refs of elements via context.
+- [`react-cool-dimensions`](https://github.com/wellyshen/react-cool-dimensions) 📏 React hook to measure an element's size and handle responsive components.
 - [`react-cool-inview`](https://github.com/wellyshen/react-cool-onclickoutside) 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
 - [`react-cool-onclickoutside`](https://github.com/wellyshen/react-cool-onclickoutside) 🖱 React hook to listen for clicks outside of the component(s).
 - [`react-cool-portal`](https://github.com/wellyshen/react-cool-portal) 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
