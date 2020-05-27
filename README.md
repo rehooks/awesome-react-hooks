@@ -205,6 +205,7 @@
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
 - [`use-dimensions`](https://github.com/CharlesStover/use-dimensions) React Native hook for getting screen and window dimensions.
+- [`use-double-click`](https://github.com/zattoo/use-double-click) React hook for continuous double-clicks and combining click and double-click events
 - [`use-eazy-auth`](https://github.com/gffuma/use-eazy-auth) React hooks for handle auth stuff.
 - [`use-events`](https://github.com/sandiiarov/use-events) A set of React Hooks to handle mouse events.
 - [`use-force-update`](https://github.com/CharlesStover/use-force-update) React hook for forcing re-render of a functional Component.
