@@ -246,3 +246,4 @@
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
+- [`useDoubleClick`](https://github.com/zattoo/use-double-click) React hook for continuous double-clicks and combining click and double-click events
