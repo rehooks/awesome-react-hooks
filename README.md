@@ -69,6 +69,7 @@
 - [`@d2k/react-devto`](https://github.com/bdbch/react-devto) React hook for Dev.to API requests
 - [`@d2k/react-github`](https://github.com/bdbch/react-github) React hook for Github API requests
 - [`@d2k/react-localstorage`](https://github.com/bdbch/react-localstorage) React hook that handles updating and clearing localstorage values while keeping them in sync with your components.
+- [`@elgorditosalsero/react-gtm-hook`](https://github.com/elgorditosalsero/react-gtm-hook) React hook for handle easily the Google Tag Manager.
 - [`@hookstate/core`](https://github.com/avkonst/hookstate) Modern, very fast and extendable state management for React.
 - [`@jzone/react-request-hook`](https://github.com/zhixiaoqiang/react-request-hook) 🐶React hook for custom request，compatible with various lib, support redux
 - [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
