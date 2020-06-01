@@ -230,6 +230,7 @@
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
 - [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
 - [`use-socket.io-client`](https://github.com/iamgyz/use-socket.io-client) React hook for socket.io-client, manipulate [socket.io](https://socket.io) client without any side effect.
+- [`use-sse`](https://github.com/kmoskwiak/useSSE) ✨useSSE - use Server-Side Effect. `useEffect` both on client and server side.
 - [`use-ssr`](https://github.com/alex-cory/use-ssr) ☯️ React hook to determine if you are on the server, browser, or react native.
 - [`use-state-snapshots`](https://github.com/haydn/use-state-snapshots) A React hook to keep track of state changes for undo/redo functionality.
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
