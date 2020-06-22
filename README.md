@@ -51,7 +51,7 @@
 
 ## Catalogs
 
-- [@umijs/hooks(🍚)](https://github.com/umijs/hooks/) A collection of React Hooks specifically aiming at enterprise applications.
+- [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
 - [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
 - [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
