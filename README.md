@@ -192,6 +192,7 @@
 - [`trousers`](https://github.com/danieldelcore/trousers) 👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 - [`use-action`](https://github.com/awmleer/use-action) Almost same to useEffect, but not deferred.
+- [`use-as-bind`](https://github.com/tylervipond/use-as-bind) React hook for using as-bind with a WASM source.
 - [`use-async-memo`](https://github.com/awmleer/use-async-memo) React hook for generating async memoized data.
 - [`use-autocomplete`](https://github.com/lowewenzel/use-autocomplete) A React hook for returning autocomplete values for a search string within an array.
 - [`use-axios-react`](https://github.com/sergey-s/use-axios-react) React CRUD hooks for axios, comprehensive list of examples
