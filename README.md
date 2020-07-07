@@ -86,6 +86,7 @@
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
+- [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
 - [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
