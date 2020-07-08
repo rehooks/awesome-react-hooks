@@ -197,6 +197,7 @@
 - [`use-axios-react`](https://github.com/sergey-s/use-axios-react) React CRUD hooks for axios, comprehensive list of examples
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
+- [`use-click-away`](https://github.com/geobde/use-click-away) React hook when you want a callback invoked when a DOM element was not clicked.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland
 - [`use-countries`](https://github.com/oktaysenkan/use-countries) Custom react hook to list countries and languages.
@@ -249,5 +250,4 @@
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
-- [`use-click-away`](https://github.com/geobde/use-click-away) React hook when you want a callback invoked when a DOM element was not clicked.
   
