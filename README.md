@@ -197,6 +197,7 @@
 - [`use-async-memo`](https://github.com/awmleer/use-async-memo) React hook for generating async memoized data.
 - [`use-autocomplete`](https://github.com/lowewenzel/use-autocomplete) A React hook for returning autocomplete values for a search string within an array.
 - [`use-axios-react`](https://github.com/sergey-s/use-axios-react) React CRUD hooks for axios, comprehensive list of examples
+- [`use-boolean`](https://github.com/mykolaharmash/use-boolean) Convenient helpers for handling boolean state.
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
 - [`use-click-away`](https://github.com/geobde/use-click-away) React hook when you want a callback invoked when a DOM element was not clicked.
@@ -241,6 +242,7 @@
 - [`use-suspender`](https://github.com/octet-stream/use-suspender) Execute asynchronous actions with [`React.Suspense`](https://reactjs.org/docs/react-api.html#reactsuspense)
 - [`use-t`](https://github.com/streamich/use-t) Multi-language using hooks.
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
+- ['use-videocard](https://github.com/BRA1L0R/use-videocard) React hook to fetch the graphics card information of the client using canvas
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
@@ -252,5 +254,4 @@
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
-- [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A React hook for using (Bootstrap-inspired) window width breakpoints
