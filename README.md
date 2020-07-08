@@ -197,6 +197,7 @@
 - [`use-async-memo`](https://github.com/awmleer/use-async-memo) React hook for generating async memoized data.
 - [`use-autocomplete`](https://github.com/lowewenzel/use-autocomplete) A React hook for returning autocomplete values for a search string within an array.
 - [`use-axios-react`](https://github.com/sergey-s/use-axios-react) React CRUD hooks for axios, comprehensive list of examples
+- [`use-boolean`](https://github.com/mykolaharmash/use-boolean) Convenient helpers for handling boolean state.
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
