@@ -51,7 +51,7 @@
 
 ## Catalogs
 
-- [@umijs/hooks(🍚)](https://github.com/umijs/hooks/) A collection of React Hooks specifically aiming at enterprise applications.
+- [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
 - [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
 - [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
@@ -86,6 +86,7 @@
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
+- [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
 - [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
@@ -192,6 +193,7 @@
 - [`trousers`](https://github.com/danieldelcore/trousers) 👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance
 - [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 - [`use-action`](https://github.com/awmleer/use-action) Almost same to useEffect, but not deferred.
+- [`use-as-bind`](https://github.com/tylervipond/use-as-bind) React hook for using as-bind with a WASM source.
 - [`use-async-memo`](https://github.com/awmleer/use-async-memo) React hook for generating async memoized data.
 - [`use-autocomplete`](https://github.com/lowewenzel/use-autocomplete) A React hook for returning autocomplete values for a search string within an array.
 - [`use-axios-react`](https://github.com/sergey-s/use-axios-react) React CRUD hooks for axios, comprehensive list of examples
@@ -246,8 +248,9 @@
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
 - [`useReducerWithLocalStorage`](https://github.com/Tweries/useReducerWithLocalStorage) React hook that adds local storage support to the `useReducer` hook
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
+- [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
 - [`useScrollSpy`](https://github.com/Purii/react-use-scrollspy) React hook to automatically update navigation based on scroll position.
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
-  
+- [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A React hook for using (Bootstrap-inspired) window width breakpoints
