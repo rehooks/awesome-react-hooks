@@ -240,6 +240,7 @@
 - [`use-suspender`](https://github.com/octet-stream/use-suspender) Execute asynchronous actions with [`React.Suspense`](https://reactjs.org/docs/react-api.html#reactsuspense)
 - [`use-t`](https://github.com/streamich/use-t) Multi-language using hooks.
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
+- ['use-videocard](https://github.com/BRA1L0R/use-videocard) React hook to fetch the graphics card information of the client using canvas
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
