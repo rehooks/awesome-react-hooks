@@ -200,6 +200,7 @@
 - [`use-boolean`](https://github.com/mykolaharmash/use-boolean) Convenient helpers for handling boolean state.
 - [`use-browser-history`](https://github.com/zcallan/use-browser-history) A React hook to handle browser history events.
 - [`use-cart`](https://github.com/samjbmason/use-cart) A React hook that gives you shopping cart functionality.
+- [`use-click-away`](https://github.com/geobde/use-click-away) React hook when you want a callback invoked when a DOM element was not clicked.
 - [`use-clippy`](https://github.com/CharlesStover/use-clippy) A React hook to reading from and writing to the user's clipboard.
 - [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland
 - [`use-countries`](https://github.com/oktaysenkan/use-countries) Custom react hook to list countries and languages.
