@@ -55,7 +55,7 @@
 - [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
 - [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
-- [Hooks.guide](https://www.hooks.guide/) Collection of React hooks curated by the community.
+- [Hooks.guide](https://hooks-guide.netlify.app/) Collection of React hooks curated by the community.
 - [react-recipes](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
