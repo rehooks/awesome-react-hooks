@@ -252,7 +252,7 @@
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
 - [`useKeyCapture`](https://github.com/pranesh239/use-key-capture) ⌨️ A simple hook to make keyDown listening event easier.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
-- [`useReducerWithEffects`](https://github.com/frankiesardo/use-reducer-with-effects) React hook that React Hook that colocates reducer and side effects    
+- [`useReducerWithEffects`](https://github.com/frankiesardo/use-reducer-with-effects) React Hook that colocates reducer and side effects    
 - [`useReducerWithLocalStorage`](https://github.com/Tweries/useReducerWithLocalStorage) React hook that adds local storage support to the `useReducer` hook
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
