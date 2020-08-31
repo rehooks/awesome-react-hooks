@@ -52,7 +52,6 @@
 ## Catalogs
 
 - [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
-- [ahooks/usetable](https://github.com/ahooksjs/useTable) A Pluggable Hook Solution for Query Table.
 - [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
 - [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
@@ -89,6 +88,7 @@
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
 - [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
+- [ahooks/usetable](https://github.com/ahooksjs/useTable) A Pluggable Hook Solution for Query Table.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
 - [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
