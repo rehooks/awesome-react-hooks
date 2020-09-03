@@ -86,6 +86,7 @@
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
+- [`@webscopeio/react-health-check`](https://github.com/webscopeio/react-health-check) 🏥 Lightweight React hook for checking health of API services.
 - [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`ahooks/usetable`](https://github.com/ahooksjs/useTable) A Progressive Solution for Query Table Scene.
