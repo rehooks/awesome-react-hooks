@@ -239,7 +239,7 @@
 - [`use-scroller`](https://github.com/geobde/use-scroller) React hook that automatically adds the next page, saving users from a full page load.
 - [`use-scroll-to-bottom`](https://github.com/tudorgergely/use-scroll-to-bottom) React hook for detecting when an element was scrolled to bottom.
 - [`use-simple-undo`](https://github.com/sandiiarov/use-simple-undo) Simple implementation of undo/redo functionality.
-- [`use-socketio`](https://github.com/mfrachet/use-socketio) React hooks to use with https://socket.io/.
+- [`server-push-hooks`](https://github.com/mfrachet/server-push-hooks) 🔥 React hooks for [socket.io](https://socket.io), [SEE](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events) and more to come
 - [`use-socket.io-client`](https://github.com/iamgyz/use-socket.io-client) React hook for socket.io-client, manipulate [socket.io](https://socket.io) client without any side effect.
 - [`use-sse`](https://github.com/kmoskwiak/useSSE) ✨useSSE - use Server-Side Effect. `useEffect` both on client and server side.
 - [`use-ssr`](https://github.com/alex-cory/use-ssr) ☯️ React hook to determine if you are on the server, browser, or react native.
