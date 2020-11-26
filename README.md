@@ -231,6 +231,7 @@
 - [`use-overflow`](https://github.com/amorriscode/use-overflow) A React Hook that allows you to detect X and Y overflow
 - [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) 📍 React hook for Google Maps Places Autocomplete.
 - [`use-popper`](https://github.com/sandiiarov/use-popper) React hook wrapper around Popper.js.
+- [`use-query-params`](https://github.com/pbeshai/use-query-params) A React Hook for managing state in URL query parameters with easy serialization.
 - [`use-react-modal`](https://github.com/alex-cory/use-react-modal) 🖼 useModal, React hook for Modals/Dialogs/Lightboxes
 - [`use-react-router`](https://github.com/CharlesStover/use-react-router) React Hook for pub-sub behavior using React Router.
 - [`use-reactive-state`](https://github.com/tedstoychev/use-reactive-state) `useReactiveState()` - a reactive alternative to React's `useState()`.
