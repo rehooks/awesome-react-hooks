@@ -23,6 +23,7 @@
 - [Testing of a Custom React Hook for Fetching Data with Axios](https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1)
 - [The Guide to Learning React Hooks (Examples & Tutorials) by Eric Bishard](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
 - ["Sanely Testing React Hooks" by Dave Cooper](https://dev.to/grug/sanely-testing-react-hooks-2l1j)
+- [React by Example: Hooks](https://reactbyexample.github.io/hooks)
 
 ## Videos
 
