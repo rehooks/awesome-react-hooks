@@ -266,3 +266,5 @@
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
+- [`react-query`](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React.
+
