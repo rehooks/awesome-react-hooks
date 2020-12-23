@@ -144,6 +144,7 @@
 - [`react-pirate`](https://github.com/dispix/react-pirate) React lifecycle and utilities hooks.
 - [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) Hooks api for react-powerplug components.
 - [`react-promiseful`](https://github.com/moxystudio/react-promiseful) A React component and hook to render children conditionally based on a promise status.
+- [`react-query`](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React.
 - [`react-recaptcha-hook`](https://github.com/hupe1980/react-recaptcha-hook) React hook for google-recaptcha v3
 - [`react-recipes`](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
