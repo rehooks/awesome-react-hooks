@@ -186,6 +186,7 @@
 - [`reaktion`](https://github.com/mfrachet/reaktion) useState like hook for global state management.
 - [`redhooks`](https://github.com/iusehooks/redhooks) Global state management with React Hooks. It also supports the use of middleware like redux-thunk or redux-saga or your own custom middleware.
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
+- [`concent-use-concent`](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
 - [`region-core`](https://github.com/regionjs/region-core) A global state management framework with a hook `useProps`.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
 - [`resynced`](https://github.com/pedronasser/resynced) Multiple state management using React Hooks API.
