@@ -91,6 +91,7 @@
 - [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [`@withvoid/melting-pot`](https://github.com/withvoid/melting-pot) React hook utility library.
 - [`ahooks/usetable`](https://github.com/ahooksjs/useTable) A Progressive Solution for Query Table Scene.
+- [`concent`](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
 - [`constate`](https://github.com/diegohaz/constate) Transform your local state into global state using `useContextState` and `useContextReducer`.
 - [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
@@ -186,7 +187,6 @@
 - [`reaktion`](https://github.com/mfrachet/reaktion) useState like hook for global state management.
 - [`redhooks`](https://github.com/iusehooks/redhooks) Global state management with React Hooks. It also supports the use of middleware like redux-thunk or redux-saga or your own custom middleware.
 - [`redux-react-hook`](https://github.com/ianobermiller/redux-react-hook) React hook for accessing mapped state from a Redux store.
-- [`concent-use-concent`](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
 - [`region-core`](https://github.com/regionjs/region-core) A global state management framework with a hook `useProps`.
 - [`rehooks-visibility-sensor`](https://github.com/imbhargav5/rehooks-visibility-sensor) It checks whether an element has scrolled into view or not.
 - [`resynced`](https://github.com/pedronasser/resynced) Multiple state management using React Hooks API.
