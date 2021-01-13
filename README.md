@@ -106,6 +106,7 @@
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
 - [`react-context-refs`](https://github.com/megazazik/react-context-refs) React hooks for getting refs of elements via context.
+- [`react-cookie`](https://github.com/reactivestack/cookies) React hooks for universal cookies.
 - [`react-cool-dimensions`](https://github.com/wellyshen/react-cool-dimensions) 📏 React hook to measure an element's size and handle responsive components.
 - [`react-cool-form`](https://github.com/wellyshen/react-cool-form) 📋 React hooks for forms state and validation, less code more performant.
 - [`react-cool-inview`](https://github.com/wellyshen/react-cool-onclickoutside) 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).
@@ -260,7 +261,7 @@
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
 - [`useKeyCapture`](https://github.com/pranesh239/use-key-capture) ⌨️ A simple hook to make keyDown listening event easier.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
-- [`useReducerWithEffects`](https://github.com/frankiesardo/use-reducer-with-effects) React Hook that colocates reducer and side effects    
+- [`useReducerWithEffects`](https://github.com/frankiesardo/use-reducer-with-effects) React Hook that colocates reducer and side effects
 - [`useReducerWithLocalStorage`](https://github.com/Tweries/useReducerWithLocalStorage) React hook that adds local storage support to the `useReducer` hook
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
