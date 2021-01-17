@@ -113,6 +113,7 @@
 - [`react-cool-onclickoutside`](https://github.com/wellyshen/react-cool-onclickoutside) 🖱 React hook to listen for clicks outside of the component(s).
 - [`react-cool-portal`](https://github.com/wellyshen/react-cool-portal) 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.
 - [`react-countdown-hook`](https://github.com/alexkhismatulin/react-use-count-down) Dead simple yet powerful countdown hook for React. Powered by `requestAnimationFrame`.
+- [`react-darkreader`](https://github.com/Turkyden/react-darkreader) 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
 - [`react-declare-form`](https://github.com/andy9775/react-declare-form) React hook based declarative form library.
 - [`react-dom-status-hook`](https://github.com/yeskunall/react-dom-status-hook) React hook for subscribing to the `DOMContentLoaded` event.
 - [`react-enhanced-reducer-hook`](https://github.com/shiningjason/react-enhanced-reducer-hook) An alternative to `useReducer` that accepts middlewares.
