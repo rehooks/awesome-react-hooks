@@ -151,6 +151,7 @@
 - [`react-recaptcha-hook`](https://github.com/hupe1980/react-recaptcha-hook) React hook for google-recaptcha v3
 - [`react-recipes`](https://github.com/craig1123/react-recipes) 👩‍🍳 Collection of essential hook recipes 🥘
 - [`react-request-hook`](https://github.com/schettino/react-request-hook) Managed, cancelable and safe-oriented api requests.
+- [`react-responsive`](https://github.com/contra/react-responsive) React media query module.
 - [`react-rocketjump`](https://github.com/inmagik/react-rocketjump) Manage state and side effects like a breeze.
 - [`react-script-hook`](https://github.com/hupe1980/react-script-hook) React hook to dynamically load an external script and know when its loaded
 - [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) Collection of hook-based memoized selector factories for declarations outside of render.
