@@ -141,6 +141,7 @@
 - [`react-intersection-visible-hook`](https://github.com/AvraamMavridis/react-intersection-visible-hook) React hook to track the visibility of a functional component.
 - [`react-media-hook`](https://github.com/lessmess-agency/react-media-hook) React hook for Media Queries.
 - [`react-metatags-hook`](https://github.com/lordgiotto/react-metatags-hook) React Hook to manage html meta tags.
+- [`react-native-react-bridge`](https://github.com/inokawa/react-native-react-bridge) A React Native plugin to run React and handle communication between them.
 - [`react-optimistic-ui-hook`](https://github.com/mamal72/react-optimistic-ui-hook) ⚛️ Minimal "optimistic UI" pattern implementation with a React hook
 - [`react-page-name`](https://github.com/RyanFitzgerald/react-page-name) React Hook for managing the page title.
 - [`react-peer-data`](https://github.com/vardius/react-peer-data) React wrapper for PeerData library for files, media streaming/sharing using WebRTC.
