@@ -261,6 +261,7 @@
 - [`use-videocard`](https://github.com/BRA1L0R/use-videocard) React hook to fetch the graphics card information of the client using canvas
 - [`use-window-blur-change-title`](https://github.com/cyntler/use-window-blur-change-title) React Hook for set the page title when the user is shifting focus away from the current window.
 - [`useDarkMode`](https://github.com/donavon/use-dark-mode) A custom React Hook to help you implement a "dark mode" component.
+- [`useDeferredState`](https://github.com/phytonmk/useDeferredState) A React hook for deferring state change. That's essential when your UI needs to wait for disappearing animation is complete to unmount component.
 - [`useDropZone`](https://github.com/sbaidon/useDropZone) React hook that allows you to set simple drag and drop functionality.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
