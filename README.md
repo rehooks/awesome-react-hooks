@@ -278,3 +278,4 @@
 - [`useWaitForElements`](https://github.com/renansoares/useWaitForElements) A simple hook to wait for elements to be rendered with MutationObserver.
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
+- [`useFileDialog`](https://github.com/omidnikrah/use-file-dialog) Open file dialog without struggling with file input using useFileDialog react hook
