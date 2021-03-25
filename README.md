@@ -234,6 +234,7 @@
 - [`use-is-mounted-ref`](https://github.com/helderburato/use-is-mounted-ref) `useIsMountedRef` is a React Hook to check when the component is mounted.
 - [`use-lang-direction`](https://github.com/davidicus/use-lang-direction) A hook that reads the HTML element's `dir` attribute value and any updates to that value allowing you to update your UI accordingly.
 - [`use-last-fm`](https://github.com/webmail/use-last-fm) A hook to show your current playing song from **Spotify** or any other site [last.fm](https://last.fm) supports in realtime. ♪
+- [`use-lilius`](https://github.com/its-danny/use-lilius) A headless calendar hook for React.
 - [`use-media`](https://github.com/streamich/use-media) CSS media queries with React hook.
 - [`use-mouse-action`](https://github.com/dimitrinicolas/use-mouse-action) React Hooks to listen to both mouse down or up and click events with a once called function.
 - [`use-multiselect`](https://github.com/jschloer/use-multiselect) Manage multiselect state.
