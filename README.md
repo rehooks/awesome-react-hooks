@@ -265,6 +265,7 @@
 - [`useDeferredState`](https://github.com/phytonmk/useDeferredState) A React hook for deferring state change. That's essential when your UI needs to wait for disappearing animation is complete to unmount component.
 - [`useDropZone`](https://github.com/sbaidon/useDropZone) React hook that allows you to set simple drag and drop functionality.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
+- [`useFileDialog`](https://github.com/omidnikrah/use-file-dialog) Open file dialog without struggling with file input using useFileDialog react hook
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
 - [`useKeyCapture`](https://github.com/pranesh239/use-key-capture) ⌨️ A simple hook to make keyDown listening event easier.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
