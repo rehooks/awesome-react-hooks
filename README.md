@@ -166,6 +166,7 @@
 - [`react-use-browser`](https://github.com/crossroads-loyalty-solutions/react-use-browser) A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.
 - [`react-use-calendar`](https://github.com/gregnb/react-use-calendar) A hook for implementing a calendar with events.
 - [`react-use-clipboard`](https://github.com/danoc/react-use-clipboard) A hook that copies text to a user's clipboard.
+- [`react-use-d3`](https://github.com/inokawa/react-use-d3) A React hook to use D3.
 - [`react-use-data-loader`](https://github.com/smmoosavi/react-use-data-loader) React hook for loading data
 - [`react-use-fetch-factory`](https://github.com/JohannesKlauss/react-use-fetch-factory) React hook that takes care of fetching and selecting data with redux.
 - [`react-use-fetch-with-redux`](https://github.com/grug/react-use-fetch-with-redux/) React hook that caches API requests that works with redux.
