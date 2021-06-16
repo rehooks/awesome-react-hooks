@@ -76,6 +76,7 @@
 - [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
 - [`@koale/useworker`](https://github.com/alewin/useWorker) ⚙️ Running heavy task in background using web workers, without blocking the UI
 - [`@marvelsq/use-properties-hook`](https://github.com/MarvelSQ/use-properties-hook) Instance functions inside FunctionComponent like `class-properties` and equal in `ShallowCompare`
+- [`@react-hookz/web`](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
 - [`@rehooks/document-title`](https://github.com/rehooks/document-title) React hook for updating the document-title.
 - [`@rehooks/document-visibility`](https://github.com/rehooks/document-visibility) React hook for subscribing to document visibility.
