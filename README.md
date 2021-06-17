@@ -52,7 +52,9 @@
 
 ## Catalogs
 
+- [@react-hookz/web](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [ahooks](https://github.com/alibaba/hooks) A collection of React Hooks specifically aiming at enterprise applications.
+- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom hooks development.
 - [Captain hook](https://github.com/stevenpersia/captain-hook) Modest list of hooks.
 - [crooks](https://github.com/chrisjpatty/crooks) A collection of unique React Hooks.
 - [hooks-by-example](https://github.com/latviancoder/hooks-by-example) Collection of beginner-friendly real world examples of hook usage.
@@ -62,7 +64,6 @@
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
 - [Use Hooks](https://use-hooks.org/) A collection of reusable React Hooks.
-- [beautiful-react-hooks(🔥)](https://beautifulinteractions.github.io/beautiful-react-hooks/) A collection of hooks to speed-up your components and custom hooks development.
 
 ## Packages
 
@@ -76,7 +77,6 @@
 - [`@kevinwolf/formal`](https://github.com/kevinwolfcr/formal) Elegant form management primitives for the react hooks era.
 - [`@koale/useworker`](https://github.com/alewin/useWorker) ⚙️ Running heavy task in background using web workers, without blocking the UI
 - [`@marvelsq/use-properties-hook`](https://github.com/MarvelSQ/use-properties-hook) Instance functions inside FunctionComponent like `class-properties` and equal in `ShallowCompare`
-- [`@react-hookz/web`](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [`@rehooks/component-size`](https://github.com/rehooks/component-size) React hook for determining the size of a component.
 - [`@rehooks/document-title`](https://github.com/rehooks/document-title) React hook for updating the document-title.
 - [`@rehooks/document-visibility`](https://github.com/rehooks/document-visibility) React hook for subscribing to document visibility.
