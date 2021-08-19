@@ -184,6 +184,7 @@
 - [`react-use-path`](https://github.com/zhangkaiyulw/react-use-path) The tiniest hook style react router.
 - [`react-use-scroll-position`](https://github.com/neo/react-use-scroll-position) React hook for using the scroll position.
 - [`react-use-trigger`](https://github.com/ilyalesik/react-use-trigger) React hook for trigger effect from any place of code
+- [`react-use-watch`](https://github.com/iam-frankqiu/react-use-watch) A React hook about triggers once only when dependencies have changed.
 - [`react-use-wavelet`](https://github.com/perlin-network/react-use-wavelet) React hooks for connecting to the Wavelet smart-contract platform
 - [`react-use`](https://github.com/streamich/react-use) Collection of essential hooks.
 - [`react-useFormless`](https://github.com/GeDiez/react-use-formless) React hook to handle forms state.
