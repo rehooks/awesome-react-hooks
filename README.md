@@ -282,5 +282,6 @@
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useWaitForElements`](https://github.com/renansoares/useWaitForElements) A simple hook to wait for elements to be rendered with MutationObserver.
+- [`useInView`](https://github.com/thebuilder/react-intersection-observer) React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
