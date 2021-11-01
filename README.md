@@ -24,6 +24,7 @@
 - [The Guide to Learning React Hooks (Examples & Tutorials) by Eric Bishard](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
 - ["Sanely Testing React Hooks" by Dave Cooper](https://dev.to/grug/sanely-testing-react-hooks-2l1j)
 - [React by Example: Hooks](https://reactbyexample.github.io/hooks)
+- [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 
 ## Videos
 
