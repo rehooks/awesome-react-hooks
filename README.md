@@ -271,6 +271,7 @@
 - [`useDropZone`](https://github.com/sbaidon/useDropZone) React hook that allows you to set simple drag and drop functionality.
 - [`useEmailAutocomplete`](https://github.com/alex-cory/use-email-autocomplete) 📬 React hook for email autocomplete inputs.
 - [`useFileDialog`](https://github.com/omidnikrah/use-file-dialog) Open file dialog without struggling with file input using useFileDialog react hook
+- [`useInView`](https://github.com/thebuilder/react-intersection-observer) React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
 - [`useKeyCapture`](https://github.com/pranesh239/use-key-capture) ⌨️ A simple hook to make keyDown listening event easier.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
@@ -282,6 +283,5 @@
 - [`useServiceWorker`](https://github.com/JCofman/react-hook-use-service-worker) A React hook which can register a service worker
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useWaitForElements`](https://github.com/renansoares/useWaitForElements) A simple hook to wait for elements to be rendered with MutationObserver.
-- [`useInView`](https://github.com/thebuilder/react-intersection-observer) React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
