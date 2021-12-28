@@ -38,6 +38,7 @@
 ## Podcasts
 
 - [React Hooks - Syntax](https://syntax.fm/show/092/react-hooks)
+- [React Hooks 1 Year Later - Syntax](https://syntax.fm/show/232/react-hooks-1-year-later)
 
 ## Tools
 
