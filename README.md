@@ -87,6 +87,7 @@
 - [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) React hook for getting window `x` and `y` position.
 - [`@rehooks/window-size`](https://github.com/rehooks/window-size) React hook for subscribing to window size.
 - [`@rekindle/use-request`](https://github.com/react-rekindle/use-request) 🤖 React hook for making request.
+- [`@rkrupinski/use-state-machine`](https://github.com/rkrupinski/use-state-machine) A finite state machine hook.
 - [`@staltz/use-profunctor-state`](https://github.com/staltz/use-profunctor-state) React Hook for state management with Profunctor Optics
 - [`@webscopeio/react-health-check`](https://github.com/webscopeio/react-health-check) 🏥 Lightweight React hook for checking health of API services.
 - [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
