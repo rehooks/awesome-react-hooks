@@ -222,7 +222,7 @@
 - [`use-context-selector`](https://github.com/dai-shi/use-context-selector) React useContextSelector hook in userland.
 - [`use-controlled-input-number`](https://github.com/d-asensio/use-controlled-input-number) React hook to turn numeric input behavior into pretty much what you expect.
 - [`use-countries`](https://github.com/oktaysenkan/use-countries) Custom react hook to list countries and languages.
-- [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce hook for React.
+- [`use-debounce`](https://github.com/xnimorz/use-debounce) A debounce (and throttle) hook for React.
 - [`use-deep-compare`](https://github.com/sandiiarov/use-deep-compare) It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.
 - [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [`use-detect-print`](https://github.com/gregnb/use-detect-print) React hook to detect when a page is being printed.
