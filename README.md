@@ -37,7 +37,9 @@
 
 ## Podcasts
 
-- [React Hooks - Syntax](https://syntax.fm/show/092/react-hooks)
+- [React Hooks - Syntax (Nov 14th, 2018)](https://syntax.fm/show/092/react-hooks)
+- [React Hooks 1 Year Later - Syntax (Mar 18, 2020)](https://syntax.fm/show/232/react-hooks-1-year-later)
+- [Why should I use React Hooks? - Syntax (Dec 7th, 2020)](https://syntax.fm/show/307/hasty-treat-why-should-i-use-react-hooks)
 
 ## Tools
 
