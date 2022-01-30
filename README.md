@@ -70,6 +70,7 @@
 ## Packages
 
 - [`@21kb/react-hooks`](https://github.com/21kb/react-hooks) A set of React Hooks to get _hooked_ on.
+- [`@anatoliygatt/use-prefers-color-scheme`](https://github.com/anatoliygatt/use-prefers-color-scheme) 🌗 React hook for subscribing to user's color scheme preference.
 - [`@d2k/react-devto`](https://github.com/bdbch/react-devto) React hook for Dev.to API requests
 - [`@d2k/react-github`](https://github.com/bdbch/react-github) React hook for Github API requests
 - [`@d2k/react-localstorage`](https://github.com/bdbch/react-localstorage) React hook that handles updating and clearing localstorage values while keeping them in sync with your components.
