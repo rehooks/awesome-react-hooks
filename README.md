@@ -167,6 +167,7 @@
 - [`react-state-patterns`](https://github.com/mcclayton/react-state-patterns) Utility package for creating reusable implementations of React state provider patterns from hooks.
 - [`react-swipeable`](https://github.com/dogfessional/react-swipeable) React swipe event handler hook.
 - [`react-tracked`](https://github.com/dai-shi/react-tracked) Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
+- [`react-transition-value`](https://github.com/dev-bjoern/react-transition-value) ▶️ Animate number values using easing functions.
 - [`react-uniformed`](https://github.com/j-a-y-h/react-uniformed) 🚀 Declarative React forms using hooks.
 - [`react-use-api`](https://github.com/RyanRoll/react-use-api) Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.
 - [`react-use-browser`](https://github.com/crossroads-loyalty-solutions/react-use-browser) A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.
