@@ -34,6 +34,7 @@
 - [🎬 React Hooks playlist by Josh Ribakoff](https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg)
 - [🎬 React Hooks playlist by Michael Chan](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g)
 - [🎬 Custom Hooks in React by Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
+- [🎬 10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 
 ## Podcasts
 
@@ -101,6 +102,7 @@
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
 - [`fetch-suspense`](https://github.com/CharlesStover/fetch-suspense) React hook for the Fetch API with support for Suspense.
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
+- [`mantine`](https://github.com/mantinedev/mantine) React hooks for various situations.
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
 - [`modali`](https://github.com/upmostly/modali) A delightful modal dialog component for React, built from the ground up to support React Hooks.
 - [`moment-hooks`](https://github.com/momentechnologies/moment-hooks) A library containing generic react hooks
