@@ -3,7 +3,7 @@ CHANGING THIS
 
 > Awesome React Hooks Resources
 
-## Documentation
+## Documentations
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
 
