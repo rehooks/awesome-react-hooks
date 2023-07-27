@@ -1,8 +1,9 @@
+CHANGING THIS	
 # awesome-react-hooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome React Hooks Resources
 
-## Documentation
+## Documentations
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
 
