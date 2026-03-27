@@ -106,6 +106,7 @@
 - [`moment-hooks`](https://github.com/momentechnologies/moment-hooks) A library containing generic react hooks
 - [`nice-hooks`](https://github.com/daniel-dx/nice-hooks) 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)
 - [`promise-hook`](https://github.com/aiven715/promise-hook) React hook for simplifying Promise based data fetching.
+- [`pushduck`](https://github.com/abhay-ramesh/pushduck) Type-safe S3 file upload hooks for React — presigned URLs, progress tracking, and multi-provider support (AWS S3, R2, Spaces).
 - [`reactive-react-redux`](https://github.com/dai-shi/reactive-react-redux) React Redux binding with React Hooks and Proxy
 - [`react-async-hook`](https://github.com/slorber/react-async-hook) React hook to fetch ad-hoc data into your React components.
 - [`react-cached-callback`](https://github.com/megazazik/react-cached-callback) React hooks for caching many callbacks by key, for example, in loops.
