@@ -2,6 +2,7 @@
 
 > Awesome React Hooks Resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for React hooks development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Documentation
 
 - [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
