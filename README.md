@@ -100,6 +100,7 @@
 - [`conuse`](https://github.com/fodau/conuse) Share Hook with Context
 - [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) Easy peasy global state for React.
 - [`fetch-suspense`](https://github.com/CharlesStover/fetch-suspense) React hook for the Fetch API with support for Suspense.
+- [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - SSR-safe hooks for responsive breakpoints, container queries, fluid typography, and user preferences (reduced motion, color scheme).
 - [`graphql-hooks`](https://github.com/nearform/graphql-hooks) Minimal hooks-first GraphQL client.
 - [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) Lightweight React bindings for MobX based on experimental React hooks.
 - [`modali`](https://github.com/upmostly/modali) A delightful modal dialog component for React, built from the ground up to support React Hooks.
