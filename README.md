@@ -288,3 +288,4 @@
 - [`useWaitForElements`](https://github.com/renansoares/useWaitForElements) A simple hook to wait for elements to be rendered with MutationObserver.
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
+- [`reflow`](https://github.com/valtors/reflow) SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, viewport tracking, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
