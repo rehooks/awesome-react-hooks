@@ -288,3 +288,4 @@
 - [`useWaitForElements`](https://github.com/renansoares/useWaitForElements) A simple hook to wait for elements to be rendered with MutationObserver.
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
+- [`useNativeState`](https://github.com/sarath263/native-state) React hook to create global reactive state variable (Global state).
